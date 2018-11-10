@@ -27,6 +27,8 @@ public class SimpleStackImplTest {
         assertFalse(s1.isEmpty());
     }
 
+
+
     @Test
     public void getSizeTest() {
         assertEquals(0,s0.getSize());
